@@ -5,4 +5,4 @@ Ele foi um projeto que abrangeu tudo que eu fui aprendendo durante o módulo 1 e
 
 Tecnologias utilizadas: HTML5 CSS3
 
-Veja o projeto completo aqui: 
+Veja o projeto completo aqui: https://thiagoferreira013.github.io/projeto-android/
